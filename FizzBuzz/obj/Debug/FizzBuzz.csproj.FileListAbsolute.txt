@@ -1,0 +1,10 @@
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.dll
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.xml
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+c:\users\dadd\documents\visual studio 2015\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\dadd\Documents\Visual Studio 2015\Projects\Kata-FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\dadd\Documents\Visual Studio 2015\Projects\Kata-FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\dadd\Documents\Visual Studio 2015\Projects\Kata-FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
